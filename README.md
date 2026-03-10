@@ -1,15 +1,15 @@
 <div align="center">
 
-### Hey, I'm Kayra 👋
+# Hey, I'm Kayra 👋
 
-**Full Stack Developer · Web & Mobile**
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Web+%26+Mobile;5%2B+Years+of+Building+Digital+Products" alt="Typing SVG" /></a>
 
 Founder of **[Exludio](https://exludio.com)** — Technology Studio · İzmir, Turkey
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kayrademirkan/)
-[![X](https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/kayrademirkann)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:kayrademirkan@gmail.com)
-[![Website](https://img.shields.io/badge/exludio.com-111827?style=flat-square&logo=safari&logoColor=white)](https://exludio.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kayrademirkan/)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/kayrademirkann)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kayrademirkan@gmail.com)
+[![Website](https://img.shields.io/badge/exludio.com-111827?style=for-the-badge&logo=safari&logoColor=white)](https://exludio.com)
 
 </div>
 
