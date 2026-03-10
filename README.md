@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hey, I'm Kayra 👋
+### Hey, I'm Kayra 👋
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Web+%26+Mobile;Building+Digital+Products+for+5%2B+Years" alt="Typing SVG" /></a>
 
@@ -13,7 +13,8 @@ Founder of **[Exludio](https://exludio.com)** — Technology Studio · İzmir, T
 
 </div>
 
----
+
+
 
 #### Languages
 
@@ -46,7 +47,8 @@ Founder of **[Exludio](https://exludio.com)** — Technology Studio · İzmir, T
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
----
+
+
 
 <div align="center">
 
